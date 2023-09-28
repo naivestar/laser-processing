@@ -1,3 +1,4 @@
+//实时绘制矩形
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
